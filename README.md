@@ -3,7 +3,7 @@
 ![GitHub License](https://img.shields.io/github/license/ifyoungnet/PharmPapp)
 ![GitHub watchers](https://img.shields.io/github/watchers/ifyoungnet/PharmPapp?style=social)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/numpy)
-![KNIME](https://img.shields.io/badge/KNIME-4.3.3-yellow)
+![KNIME](https://img.shields.io/badge/KNIME-4.7.2-yellow)
 
 ## Peptide Permeability Prediction: A Systematic Investigation Across Cell Lines, Structural Types, and Modifications
 ##### PharmPapp aims to provide systematic prediction of peptide permeability.
