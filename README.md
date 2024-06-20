@@ -12,8 +12,11 @@ PharmPapp aims to provide systematic evaluation of peptide permeability across d
 Five permeability datasets were obtained through systematic data collection (Caco2-L, Caco2-C, Caco2-A, RRCK-C, PAMPA-C). Six algorithms and four types of descriptors or fingerprints were applied in the modeling process. The five optimal models achieved good predictive performance, with an impressive R2 of 0.708, 0.658, 0.484, 0.553 and 0.528 on the test set, respectively.
 ## Explanation about the files
 Five local model files: Caco2-A.zip; Caco2-C.zip; Caco2-L.zip; PAMPA-C.zip; and RRCK-C.zip: Read by ***Model Reader*** node.
+
 Local model normalizer file: RRCK-C_Normalizer.zip: Read by ***Model Reader*** node.
+
 Five example data files: example for Caco2_A.csv; example for Caco2_C.csv; example for Caco2_L.csv; example for PAMPA_C.csv; example for RRCK_C.csv. They can be loaded by ***CSV Reader***.
+
 KNIME workflows: Example regression workflow for Caco2-A.knwf; Example regression workflow for Caco2-C.knwf; Example regression workflow for Caco2-L.knwf; Example regression workflow for PAMPA-C.knwf; Example regression workflow for RRCK-C.knwf.
 
 
