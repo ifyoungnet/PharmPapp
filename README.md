@@ -8,6 +8,15 @@
 ## Peptide Permeability Prediction: A Systematic Investigation Across Cell Lines, Structural Types, and Modifications
 ## Aims
 PharmPapp aims to provide systematic evaluation of peptide permeability across diverse peptides (natural, modified, linear and cyclic) and cell lines (Caco-2, RRCK and PAMPA).
+## Models
+Five permeability datasets were obtained through systematic data collection (Caco2-L, Caco2-C, Caco2-A, RRCK-C, PAMPA-C). Six algorithms and four types of descriptors or fingerprints were applied in the modeling process. The best performance of the five models was obtained, 
+## Explanation about the files
+Five local model files: Caco2-A.zip; Caco2-C.zip; Caco2-L.zip; PAMPA-C.zip; and RRCK-C.zip: Read by Model Reader node.
+Local model normalizer file: RRCK-C_Normalizer.zip: Read by Model Reader node.
+Five example data files: example for Caco2_A.csv; example for Caco2_C.csv; example for Caco2_L.csv; example for PAMPA_C.csv; example for RRCK_C.csv.
+KNIME workflows: Example regression workflow for Caco2-A.knwf; Example regression workflow for Caco2-C.knwf; Example regression workflow for Caco2-L.knwf; Example regression workflow for PAMPA-C.knwf; Example regression workflow for RRCK-C.knwf.
+
+
 ## How to form your own prediction pipeline: 
 The details of constructing your own workflow are shown in Figure 1, Figure 2 and Figure 3. 
 Explanation of workflow: 
