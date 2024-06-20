@@ -37,4 +37,4 @@ Here is a snapshot:
 
 ## Contact
   
-  * Dong Jie: <jiedong@csu.edu.cn> 
+  * Prof. Jie Dong: <jiedong@csu.edu.cn> 
