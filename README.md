@@ -6,7 +6,8 @@
 ![KNIME](https://img.shields.io/badge/KNIME-4.7.2-yellow)
 
 ## Peptide Permeability Prediction: A Systematic Investigation Across Cell Lines, Structural Types, and Modifications
-##### PharmPapp aims to provide systematic prediction of peptide permeability.
+## Aims
+PharmPapp aims to provide systematic evaluation of peptide permeability across diverse peptides (natural, modified, linear and cyclic) and cell lines (Caco-2, RRCK and PAMPA).
 ## How to form your own prediction pipeline: 
 The details of constructing your own workflow are shown in Figure 1, Figure 2 and Figure 3. 
 Explanation of workflow: 
