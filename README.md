@@ -33,7 +33,7 @@ Here is a snapshot:
 ![snapshot](https://github.com/ifyoungnet/PharmPapp/blob/main/snapshot%20for%20the%20workflow.png)
 
 ## Publication
-> Xiaorong Tan, Qianhui Liu, Yanpeng Fang, Yingli Zhu, Fei Chen, Wenbin Zeng, Defang Ouyang, Jie Dong. Peptide Permeability Prediction: A Systematic Investigation Across Cell Lines, Structural Types, and Modifications. *Molecular Pharmaceutics*, submitted.
+> Xiaorong Tan, Qianhui Liu, Yanpeng Fang, Yingli Zhu, Fei Chen, Wenbin Zeng, Defang Ouyang, Jie Dong.Predicting Peptide Permeability Across Diverse Barriers: A Systematic Investigation. *Molecular Pharmaceutics*, submitted.
 
 ## Contact
   
